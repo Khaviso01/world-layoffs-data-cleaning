@@ -1,3 +1,2 @@
 # SQL
-
 Data Cleaning project
